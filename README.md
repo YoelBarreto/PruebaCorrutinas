@@ -1,3 +1,5 @@
 # Prueba de corrutinas
 
-Una simple aplicación la cual aplica una corrutina simple para un reloj.
+Una aplicación la cual aplica una corrutina simple para un reloj.
+
+### Actualmente no es funcional al haber hecho cambios repentinos
